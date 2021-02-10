@@ -1,5 +1,5 @@
 # Institution: California State University, Fullerton
-# Course Name: CPSC-131
+# Course Name: CPSC-131 - Data Structures
 # Objective: Build a Database for Valet Parking
 Description: Help the parking attendants track the cars in their lot using a stack
 
